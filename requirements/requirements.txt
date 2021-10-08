@@ -72,3 +72,7 @@ wcwidth==0.2.5
 wget==3.2
 yaspi==0.0.5
 zsvision==0.7.8
+sentence_transformers==2.1.0
+more-itertools==8.10.0
+matplotlib==3.4.3
+gdown==4.0.2
