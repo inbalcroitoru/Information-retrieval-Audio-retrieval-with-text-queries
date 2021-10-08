@@ -28,8 +28,8 @@ python fusion.py --config "configs/clotho/train-vggish-vggsound.json" --device 0
 | Experts  | R@1 | R@10 |
 | ----- | ---- | --- | 
 | CE - VGGish + VGGSound  (base-line)  | 6.7 | 33.2 | 
-| combSUM   | 10.0  | 46.5 | 
-| RRF   | 9.7  | 45.9 | 
+| combSUM   | 10.6  | 46.4 | 
+| RRF   | 9.8  | 44.8 | 
 | Weighted combSUM  | 6.0  | 33.3 |
 
 ### Query performance prediction models evaluation
