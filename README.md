@@ -1,4 +1,4 @@
-# Audio Retrieval with-Text Queries
+# Audio Retrieval with-Text Queries - Course Project 096231
 
 In this project we consider the task of retrieving audio streams based on a textual query. Our approach is based on several previous works adapting them to a combined framework for learning a joint embedding model for textual inputs and audio outputs, improving semantic knowledge and enabling the useof textual queries to search and retrieve audio. We experiment an improvement of the approach using two methods of fusion (CombSum, RRF), achieving promising results. Furthermore, we explore queryper formance  prediction in the scenario of multiple queries expressing a common information need (the audio segment) and propose an evaluation metric for this task. At last, we propose a method to integratequery performance weights to the fusion process.
 
